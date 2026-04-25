@@ -1,24 +1,15 @@
 # Cloud Connect AI (CCAI)
 
-<div align="center">
-	<img src="https://cloudconnect-ai.com/ccai_org.png" alt="Cloud Connect AI logo" width="170" />
-	<p><strong>Cloud, Cybersecurity, Automation, and Digital Operations</strong></p>
+![Cloud Connect AI logo](https://cloudconnect-ai.com/ccai_org.png)
 
-	<p>
-		<img src="https://img.shields.io/badge/Headquarters-Dhaka%2C%20Bangladesh-0F172A?style=flat-square" alt="Headquarters" />
-		<img src="https://img.shields.io/badge/Market-Government%20%26%20Enterprise-0F172A?style=flat-square" alt="Market" />
-		<img src="https://img.shields.io/badge/Delivery-Assessment%20to%20Operations-0F172A?style=flat-square" alt="Delivery" />
-	</p>
+**Cloud, Cybersecurity, Automation, and Digital Operations**
 
-	<p>
-		<a href="https://cloudconnect-ai.com.bd">
-			<img src="https://img.shields.io/badge/Website-cloudconnect--ai.com.bd-111827?style=for-the-badge" alt="Bangladesh website" />
-		</a>
-		<a href="https://cloudconnect-ai.com">
-			<img src="https://img.shields.io/badge/Global-cloudconnect--ai.com-1D4ED8?style=for-the-badge" alt="Global website" />
-		</a>
-	</p>
-</div>
+![Headquarters](https://img.shields.io/badge/Headquarters-Dhaka%2C%20Bangladesh-0F172A?style=flat-square)
+![Market](https://img.shields.io/badge/Market-Government%20%26%20Enterprise-0F172A?style=flat-square)
+![Delivery](https://img.shields.io/badge/Delivery-Assessment%20to%20Operations-0F172A?style=flat-square)
+
+[![Website](https://img.shields.io/badge/Website-cloudconnect--ai.com.bd-111827?style=for-the-badge)](https://cloudconnect-ai.com.bd)
+[![Global](https://img.shields.io/badge/Global-cloudconnect--ai.com-1D4ED8?style=for-the-badge)](https://cloudconnect-ai.com)
 
 ## Company Profile
 
@@ -29,16 +20,14 @@ delivery model from assessment through long-term operation.
 
 ## Capability Tags
 
-<p>
-	<img src="https://img.shields.io/badge/Cloud%20Infrastructure-334155?style=flat-square" alt="Cloud Infrastructure" />
-	<img src="https://img.shields.io/badge/Cybersecurity-334155?style=flat-square" alt="Cybersecurity" />
-	<img src="https://img.shields.io/badge/AI%20Automation-334155?style=flat-square" alt="AI Automation" />
-	<img src="https://img.shields.io/badge/Monitoring%20Intelligence-334155?style=flat-square" alt="Monitoring Intelligence" />
-	<img src="https://img.shields.io/badge/Brand%20Risk%20Monitoring-334155?style=flat-square" alt="Brand Risk Monitoring" />
-	<img src="https://img.shields.io/badge/Digital%20Operations-334155?style=flat-square" alt="Digital Operations" />
-	<img src="https://img.shields.io/badge/Data%20Engineering-334155?style=flat-square" alt="Data Engineering" />
-	<img src="https://img.shields.io/badge/API%20Integration-334155?style=flat-square" alt="API Integration" />
-</p>
+![Cloud Infrastructure](https://img.shields.io/badge/Cloud%20Infrastructure-334155?style=flat-square)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-334155?style=flat-square)
+![AI Automation](https://img.shields.io/badge/AI%20Automation-334155?style=flat-square)
+![Monitoring Intelligence](https://img.shields.io/badge/Monitoring%20Intelligence-334155?style=flat-square)
+![Brand Risk Monitoring](https://img.shields.io/badge/Brand%20Risk%20Monitoring-334155?style=flat-square)
+![Digital Operations](https://img.shields.io/badge/Digital%20Operations-334155?style=flat-square)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-334155?style=flat-square)
+![API Integration](https://img.shields.io/badge/API%20Integration-334155?style=flat-square)
 
 ## Service Portfolio
 
